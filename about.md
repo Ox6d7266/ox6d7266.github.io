@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Реверсер и осинтер, специализируюсь на малварях и хакерских группировках
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Канал в тг https://t.me/rfmOOx
+Я в тг https://t.me/Ox6d7266
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ox6d7266@proton.me](mailto:ox6d7266@proton.me)
