@@ -74,4 +74,4 @@ title: "Lockbit Ransomware"
 
 ---
  
-[А пока подпишись на канал.](https://t.me/rfmOOx) 
+[Не забудь подписаться](https://t.me/l33trfm0x) 
